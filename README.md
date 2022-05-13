@@ -6,3 +6,4 @@ I studied Computer Organization in 2017 that have plenty of questions asking me 
 I wrote this little program for me to pratice that so I can get used to it 🤣.
 
 ![screenshot](screenshot.jpg)
+![screenshot](screenshot2.jpg)
